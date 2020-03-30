@@ -1,0 +1,22 @@
+{
+  "name": "webapp-template",
+  "version": "1.0.0",
+  "description": "web application template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijuly/webapp-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "GopiKrishnan Ganesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijuly/webapp-template/issues"
+  },
+  "homepage": "https://github.com/weijuly/webapp-template#readme"
+}
